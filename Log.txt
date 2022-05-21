@@ -1,0 +1,123 @@
+Secunda: 0
+Clienti: (1,1,3) (1,2,3) (1,3,1) (1,4,5) (1,5,2) (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 1: 
+Coada 2: 
+Coada 3: 
+Coada 4: 
+Coada 5: 
+Coada 6: 
+Secunda: 1
+Clienti: (1,2,3) (1,3,1) (1,4,5) (1,5,2) (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 2: 
+Coada 3: 
+Coada 4: 
+Coada 5: 
+Coada 6: 
+Coada 1:  (1,1,3)
+Secunda: 2
+Clienti: (1,3,1) (1,4,5) (1,5,2) (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 3: 
+Coada 4: 
+Coada 5: 
+Coada 6: 
+Coada 2:  (1,2,3)
+Coada 1:  (1,1,2)
+Secunda: 3
+Clienti: (1,4,5) (1,5,2) (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 4: 
+Coada 5: 
+Coada 6: 
+Coada 3:  (1,3,1)
+Coada 2:  (1,2,2)
+Coada 1:  (1,1,1)
+Secunda: 4
+Clienti: (1,5,2) (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 5: 
+Coada 6: 
+Coada 3: 
+Coada 1: 
+Coada 4:  (1,4,5)
+Coada 2:  (1,2,1)
+Secunda: 5
+Clienti: (1,6,4) (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 6: 
+Coada 3: 
+Coada 1: 
+Coada 2: 
+Coada 5:  (1,5,2)
+Coada 4:  (1,4,4)
+Secunda: 6
+Clienti: (1,7,3) (1,8,4) (1,9,5) (1,10,5) 
+Coada 3: 
+Coada 1: 
+Coada 2: 
+Coada 6:  (1,6,4)
+Coada 5:  (1,5,1)
+Coada 4:  (1,4,3)
+Secunda: 7
+Clienti: (1,8,4) (1,9,5) (1,10,5) 
+Coada 1: 
+Coada 2: 
+Coada 5: 
+Coada 3:  (1,7,3)
+Coada 6:  (1,6,3)
+Coada 4:  (1,4,2)
+Secunda: 8
+Clienti: (1,9,5) (1,10,5) 
+Coada 2: 
+Coada 5: 
+Coada 1:  (1,8,4)
+Coada 3:  (1,7,2)
+Coada 6:  (1,6,2)
+Coada 4:  (1,4,1)
+Secunda: 9
+Clienti: (1,10,5) 
+Coada 5: 
+Coada 4: 
+Coada 2:  (1,9,5)
+Coada 1:  (1,8,3)
+Coada 3:  (1,7,1)
+Coada 6:  (1,6,1)
+peak ora: 10
+average asteptare: 0.6
+average procesare: 3.5
+Secunda: 0
+Clienti: (2,1,2) (2,2,2) 
+Coada 1: 
+Coada 2: 
+Secunda: 1
+Clienti: (2,2,2) 
+Coada 2: 
+Coada 1:  (2,1,2)
+Secunda: 2
+Clienti: 
+Coada 2:  (2,2,2)
+Coada 1:  (2,1,2)
+Secunda: 3
+Clienti: 
+Coada 2:  (2,2,1)
+Coada 1: 
+Secunda: 4
+Clienti: 
+Coada 2:  (2,2,1)
+Coada 1: 
+Secunda: 5
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 6
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 7
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 8
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 9
+Clienti: 
+Coada 2: 
+Coada 1: 

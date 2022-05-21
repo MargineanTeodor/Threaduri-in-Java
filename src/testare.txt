@@ -1,0 +1,6 @@
+SHORTEST_QUEUE
+10
+2
+30
+2 10
+2 4

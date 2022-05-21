@@ -1,0 +1,243 @@
+Secunda: 0
+Clienti: (3,1,3) (3,2,5) (2,3,19) (3,4,6) 
+Coada 1: 
+Coada 2: 
+Secunda: 1
+Clienti: (3,2,5) (2,3,19) (3,4,6) 
+Coada 2: 
+Coada 1:  (3,1,3)
+Secunda: 2
+Clienti: (2,3,19) (3,4,6) 
+Coada 1:  (3,1,2)
+Coada 2:  (3,2,5)
+Secunda: 3
+Clienti: (3,4,6) 
+Coada 2:  (3,2,4)
+Coada 1:  (3,1,1) (2,3,19)
+Secunda: 4
+Clienti: 
+Coada 2:  (3,2,3) (3,4,6)
+Coada 1:  (2,3,19)
+Secunda: 5
+Clienti: 
+Coada 2:  (3,2,2) (3,4,6)
+Coada 1:  (2,3,18)
+Secunda: 6
+Clienti: 
+Coada 2:  (3,2,1) (3,4,6)
+Coada 1:  (2,3,17)
+Secunda: 7
+Clienti: 
+Coada 2:  (3,4,6)
+Coada 1:  (2,3,16)
+Secunda: 8
+Clienti: 
+Coada 2:  (3,4,5)
+Coada 1:  (2,3,15)
+Secunda: 9
+Clienti: 
+Coada 2:  (3,4,4)
+Coada 1:  (2,3,14)
+Secunda: 10
+Clienti: 
+Coada 2:  (3,4,3)
+Coada 1:  (2,3,14)
+Secunda: 11
+Clienti: 
+Coada 2:  (3,4,2)
+Coada 1:  (2,3,12)
+Secunda: 12
+Clienti: 
+Coada 2:  (3,4,1)
+Coada 1:  (2,3,11)
+Secunda: 13
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,10)
+Secunda: 14
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,9)
+Secunda: 15
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,8)
+Secunda: 16
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,7)
+Secunda: 17
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,6)
+Secunda: 18
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,5)
+Secunda: 19
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,4)
+Secunda: 20
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,3)
+Secunda: 21
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,2)
+Secunda: 22
+Clienti: 
+Coada 2: 
+Coada 1:  (2,3,1)
+Secunda: 23
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 24
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 25
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 26
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 27
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 28
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 29
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 30
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 31
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 32
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 33
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 34
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 35
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 36
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 37
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 38
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 39
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 40
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 41
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 42
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 43
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 44
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 45
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 46
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 47
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 48
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 49
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 50
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 51
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 52
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 53
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 54
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 55
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 56
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 57
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 58
+Clienti: 
+Coada 2: 
+Coada 1: 
+Secunda: 59
+Clienti: 
+Coada 2: 
+Coada 1: 
+peak ora: 5
+average asteptare: 2.183333333333333
+average procesare: 8.25
